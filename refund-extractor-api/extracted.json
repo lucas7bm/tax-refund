@@ -1,0 +1,284 @@
+[
+  {
+    "a_recuperar": 819.048, 
+    "aliquota": 1.2999748337082035, 
+    "competencia": "01/2017", 
+    "mono_nao_declarado": 63004.912000000004
+  }, 
+  {
+    "a_recuperar": 2.432114952498684, 
+    "aliquota": 0.2842457853085893, 
+    "competencia": "01/2018", 
+    "mono_nao_declarado": 855.6379999999917
+  }, 
+  {
+    "a_recuperar": -0.14259794650134386, 
+    "aliquota": 0.28924532758900107, 
+    "competencia": "01/2019", 
+    "mono_nao_declarado": -49.29999999998836
+  }, 
+  {
+    "a_recuperar": -14.536125735647957, 
+    "aliquota": 0.26220054877739296, 
+    "competencia": "01/2020", 
+    "mono_nao_declarado": -5543.896000000008
+  }, 
+  {
+    "a_recuperar": 822.1200000000001, 
+    "aliquota": 1.299980430402123, 
+    "competencia": "02/2017", 
+    "mono_nao_declarado": 63240.952000000005
+  }, 
+  {
+    "a_recuperar": 3.4946904286113876, 
+    "aliquota": 0.29136502881487303, 
+    "competencia": "02/2018", 
+    "mono_nao_declarado": 1199.4200000000128
+  }, 
+  {
+    "a_recuperar": 6.1687981360737805, 
+    "aliquota": 0.30926409561851037, 
+    "competencia": "02/2019", 
+    "mono_nao_declarado": 1994.6700000000128
+  }, 
+  {
+    "a_recuperar": -13.281849025151548, 
+    "aliquota": 0.2677360309859615, 
+    "competencia": "02/2020", 
+    "mono_nao_declarado": -4960.799999999988
+  }, 
+  {
+    "a_recuperar": 1016.272, 
+    "aliquota": 1.299977670928429, 
+    "competencia": "03/2017", 
+    "mono_nao_declarado": 78176.11200000001
+  }, 
+  {
+    "a_recuperar": -0.8065257889880657, 
+    "aliquota": 0.2750038492447746, 
+    "competencia": "03/2018", 
+    "mono_nao_declarado": -293.27799999999115
+  }, 
+  {
+    "a_recuperar": 1.5427398064159474, 
+    "aliquota": 0.2962068011212674, 
+    "competencia": "03/2019", 
+    "mono_nao_declarado": 520.8320000000094
+  }, 
+  {
+    "a_recuperar": -15.752216125649909, 
+    "aliquota": 0.26750676528182604, 
+    "competencia": "03/2020", 
+    "mono_nao_declarado": -5888.529999999999
+  }, 
+  {
+    "a_recuperar": 946.9200000000002, 
+    "aliquota": 1.2999904338979604, 
+    "competencia": "04/2017", 
+    "mono_nao_declarado": 72840.53600000001
+  }, 
+  {
+    "a_recuperar": -6.247594582402889, 
+    "aliquota": 0.25136451275262417, 
+    "competencia": "04/2018", 
+    "mono_nao_declarado": -2485.4719999999943
+  }, 
+  {
+    "a_recuperar": -5.377404916371816, 
+    "aliquota": 0.2751643552812982, 
+    "competencia": "04/2019", 
+    "mono_nao_declarado": -1954.2519999999786
+  }, 
+  {
+    "a_recuperar": 1838.0232421575215, 
+    "aliquota": 1.3917294111816647, 
+    "competencia": "04/2020", 
+    "mono_nao_declarado": 132067.57200000001
+  }, 
+  {
+    "a_recuperar": 1170.2080000000003, 
+    "aliquota": 1.4199755681416646, 
+    "competencia": "05/2017", 
+    "mono_nao_declarado": 82410.432
+  }, 
+  {
+    "a_recuperar": 8.140080942894356, 
+    "aliquota": 0.3077793653340408, 
+    "competencia": "05/2018", 
+    "mono_nao_declarado": 2644.7780000000057
+  }, 
+  {
+    "a_recuperar": -2.9813248674559802, 
+    "aliquota": 0.2850182280371559, 
+    "competencia": "05/2019", 
+    "mono_nao_declarado": -1046.011999999988
+  }, 
+  {
+    "a_recuperar": -3.508837549305116, 
+    "aliquota": 0.3092211522088107, 
+    "competencia": "05/2020", 
+    "mono_nao_declarado": -1134.7339999999967
+  }, 
+  {
+    "a_recuperar": 1165.4479999999999, 
+    "aliquota": 1.4199727820924024, 
+    "competencia": "06/2017", 
+    "mono_nao_declarado": 82075.376
+  }, 
+  {
+    "a_recuperar": -2.2110795432415573, 
+    "aliquota": 0.27355840072966425, 
+    "competencia": "06/2018", 
+    "mono_nao_declarado": -808.2659999999742
+  }, 
+  {
+    "a_recuperar": 3.1681818958681447, 
+    "aliquota": 0.306335984856976, 
+    "competencia": "06/2019", 
+    "mono_nao_declarado": 1034.218000000008
+  }, 
+  {
+    "a_recuperar": -8.937527808715723, 
+    "aliquota": 0.2955250230373499, 
+    "competencia": "06/2020", 
+    "mono_nao_declarado": -3024.2879999999714
+  }, 
+  {
+    "a_recuperar": 1157.712, 
+    "aliquota": 1.419983943075829, 
+    "competencia": "07/2017", 
+    "mono_nao_declarado": 81529.936
+  }, 
+  {
+    "a_recuperar": -1.0394560596131024, 
+    "aliquota": 0.27948077016086753, 
+    "competencia": "07/2018", 
+    "mono_nao_declarado": -371.92399999999907
+  }, 
+  {
+    "a_recuperar": -4.20978524621363, 
+    "aliquota": 0.28744211577841605, 
+    "competencia": "07/2019", 
+    "mono_nao_declarado": -1464.5679999999993
+  }, 
+  {
+    "a_recuperar": -3.8474780313756574, 
+    "aliquota": 0.11287488115067186, 
+    "competencia": "07/2020", 
+    "mono_nao_declarado": -3408.622000000003
+  }, 
+  {
+    "a_recuperar": 1356.7040000000002, 
+    "aliquota": 1.4199854826353882, 
+    "competencia": "08/2017", 
+    "mono_nao_declarado": 95543.512
+  }, 
+  {
+    "a_recuperar": 13.61706745115614, 
+    "aliquota": 0.3248769389132303, 
+    "competencia": "08/2018", 
+    "mono_nao_declarado": 4191.453999999998
+  }, 
+  {
+    "a_recuperar": -4.075272447679821, 
+    "aliquota": 0.2908096346590401, 
+    "competencia": "08/2019", 
+    "mono_nao_declarado": -1401.353999999992
+  }, 
+  {
+    "a_recuperar": -15.639747386290635, 
+    "aliquota": 0.27251105545533927, 
+    "competencia": "08/2020", 
+    "mono_nao_declarado": -5739.123999999982
+  }, 
+  {
+    "a_recuperar": 1273.1200000000001, 
+    "aliquota": 1.439981352811538, 
+    "competencia": "09/2017", 
+    "mono_nao_declarado": 88412.25600000001
+  }, 
+  {
+    "a_recuperar": 20.096702119926583, 
+    "aliquota": 0.3448257884152905, 
+    "competencia": "09/2018", 
+    "mono_nao_declarado": 5828.074000000008
+  }, 
+  {
+    "a_recuperar": -3.540699851088876, 
+    "aliquota": 0.2946085518682221, 
+    "competencia": "09/2019", 
+    "mono_nao_declarado": -1201.8319999999949
+  }, 
+  {
+    "a_recuperar": 758.408, 
+    "aliquota": 1.2899902979601223, 
+    "competencia": "10/2016", 
+    "mono_nao_declarado": 58791.76
+  }, 
+  {
+    "a_recuperar": 3.125154327861046, 
+    "aliquota": 0.30138236810818747, 
+    "competencia": "10/2017", 
+    "mono_nao_declarado": 1036.9400000000023
+  }, 
+  {
+    "a_recuperar": 10.862915749925325, 
+    "aliquota": 0.31655394280494503, 
+    "competencia": "10/2018", 
+    "mono_nao_declarado": 3431.6159999999945
+  }, 
+  {
+    "a_recuperar": -2.834745285716567, 
+    "aliquota": 0.2995546206057817, 
+    "competencia": "10/2019", 
+    "mono_nao_declarado": -946.3199999999779
+  }, 
+  {
+    "a_recuperar": 740.8560000000001, 
+    "aliquota": 1.289983505896214, 
+    "competencia": "11/2016", 
+    "mono_nao_declarado": 57431.432
+  }, 
+  {
+    "a_recuperar": 4.639965164640957, 
+    "aliquota": 0.30856043272207934, 
+    "competencia": "11/2017", 
+    "mono_nao_declarado": 1503.7459999999992
+  }, 
+  {
+    "a_recuperar": 19.82761622255552, 
+    "aliquota": 0.3428473449489301, 
+    "competencia": "11/2018", 
+    "mono_nao_declarado": 5783.220000000001
+  }, 
+  {
+    "a_recuperar": -12.345171421312187, 
+    "aliquota": 0.5108445440868739, 
+    "competencia": "11/2019", 
+    "mono_nao_declarado": -2416.6199999999953
+  }, 
+  {
+    "a_recuperar": 911.24, 
+    "aliquota": 1.2899716524468352, 
+    "competencia": "12/2016", 
+    "mono_nao_declarado": 70640.312
+  }, 
+  {
+    "a_recuperar": 3.305243452095707, 
+    "aliquota": 0.30072217611247276, 
+    "competencia": "12/2017", 
+    "mono_nao_declarado": 1099.101999999999
+  }, 
+  {
+    "a_recuperar": 5.6753539147933445, 
+    "aliquota": 0.3067029417216088, 
+    "competencia": "12/2018", 
+    "mono_nao_declarado": 1850.4400000000023
+  }, 
+  {
+    "a_recuperar": -10.289179546428924, 
+    "aliquota": 0.27816051077556253, 
+    "competencia": "12/2019", 
+    "mono_nao_declarado": -3699.0080000000016
+  }
+]
